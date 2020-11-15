@@ -6,7 +6,10 @@ h1{
   Font-size: 70px;
 }
 
-AUIDO{
-  ALIGN: CENTER;
-  
+h2{
+  text-align: center;
+}
+
+p{
+  font-size: 30px;
 }
